@@ -7,7 +7,6 @@ class Solution {
         int currFlip = 0;
 
         for(; right < nums.length; right++) {
-            System.out.println(currFlip);
             if(nums[right] == 0) {
                 currFlip++;
             }
