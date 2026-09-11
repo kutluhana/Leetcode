@@ -14,3 +14,4 @@ TRICKS
 141. Linked List Cycle -> solved ✓ (you can use fast and slow pointers for a better runtime)
 876. Middle of the Linked List -> solved ✓
 83. Remove Duplicates from Sorted List -> solve it again
+206. Reverse Linked List -> solved ✓
