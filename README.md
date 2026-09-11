@@ -15,3 +15,4 @@ TRICKS
 876. Middle of the Linked List -> solved ✓
 83. Remove Duplicates from Sorted List -> solve it again
 206. Reverse Linked List -> solved ✓
+24. Swap Nodes in Pairs -> solved ✓
