@@ -16,3 +16,4 @@ TRICKS
 83. Remove Duplicates from Sorted List -> solve it again
 206. Reverse Linked List -> solved ✓
 24. Swap Nodes in Pairs -> solved ✓
+2130. Maximum Twin Sum of a Linked List -> solved ✓
