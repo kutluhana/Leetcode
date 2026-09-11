@@ -11,3 +11,5 @@ TRICKS
 383. Ransom Note -> solved ✓
 771. Jewels and Stones -> solved ✓
 3. Longest Substring Without Repeating Characters -> solved ✓
+141. Linked List Cycle -> solved ✓ (you can use fast and slow pointers for a better runtime)
+876. Middle of the Linked List -> solved ✓
