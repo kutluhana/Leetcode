@@ -19,3 +19,4 @@ TRICKS
 2130. Maximum Twin Sum of a Linked List -> solved ✓
 20. Valid Parentheses -> you need to solve it again!
 1047. Remove All Adjacent Duplicates In String -> solved ✓
+844. Backspace String Compare -> solved ✓
