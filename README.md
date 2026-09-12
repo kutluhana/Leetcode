@@ -24,3 +24,4 @@ TRICKS
 933. Number of Recent Calls -> solved ✓
 346. Moving Average from Data Stream -> solved ✓
 739. Daily Temperatures -> solved ✓ (actually you can just store the indices. Try that method too, its easier)
+239. Sliding Window Maximum -> solve it by yourself!
