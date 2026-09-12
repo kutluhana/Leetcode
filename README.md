@@ -22,3 +22,4 @@ TRICKS
 844. Backspace String Compare -> solved ✓
 71. Simplify Path -> couldnt solve... Try using .split() it makes the problem way easier.
 933. Number of Recent Calls -> solved ✓
+346. Moving Average from Data Stream -> solved ✓
