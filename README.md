@@ -20,3 +20,4 @@ TRICKS
 20. Valid Parentheses -> you need to solve it again!
 1047. Remove All Adjacent Duplicates In String -> solved ✓
 844. Backspace String Compare -> solved ✓
+71. Simplify Path -> couldnt solve... Try using .split() it makes the problem way easier.
