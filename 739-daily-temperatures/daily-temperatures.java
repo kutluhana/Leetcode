@@ -1,24 +1,22 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        
-        Stack<Map.Entry<Integer, Integer>> stack = new Stack<>();
+
         int[] answer = new int[temperatures.length];
+        Stack<Integer> stack = new Stack<>();
 
         for(int i = 0; i < temperatures.length; i++) {
-            while(!stack.empty() && stack.peek().getKey() < temperatures[i]) {
-                Map.Entry<Integer, Integer> entry = stack.pop();
-                answer[entry.getValue()] = i - entry.getValue();
+
+            while(!stack.empty() && temperatures[i] > temperatures[stack.peek()]) {
+                int index = stack.pop();
+                answer[index] = i - index;
             }
 
-            Map.Entry<Integer, Integer> map = Map.entry(temperatures[i], i);
+            
+            stack.push(i);
 
-            stack.push(map);
         }
+        
 
         return answer;
     }
 }
-
-/*
-73
-*/
