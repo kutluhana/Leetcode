@@ -1,5 +1,6 @@
 TRICKS
 
+``` diff
 2225. Find Players With Zero or One Losses -> No need to keep track of wins...
 1133. Largest Unique Number -> solved ✓
 1189. Maximum Number of Balloons -> just dont iterate through the map. A number may not exist in the text at all.
@@ -23,5 +24,9 @@ TRICKS
 71. Simplify Path -> couldnt solve... Try using .split() it makes the problem way easier.
 933. Number of Recent Calls -> solved ✓
 346. Moving Average from Data Stream -> solved ✓
-739. Daily Temperatures -> solved ✓ (actually you can just store the indices. Try that method too, its easier)
-239. Sliding Window Maximum -> solve it by yourself!
+- 739. Daily Temperatures -> solved ✓ (actually you can just store the indices. Try that method too, its easier)
+- 239. Sliding Window Maximum -> solve it by yourself!
+- 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit -> solve it by yourself!
+- 496. Next Greater Element I -> solve it by yourself!
+
+```
