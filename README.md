@@ -29,4 +29,6 @@ TRICKS
 - 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit -> solve it by yourself!
 - 496. Next Greater Element I -> solve it by yourself!
 
++ 104. Maximum Depth of Binary Tree
+
 ```
