@@ -36,5 +36,6 @@ TRICKS
 ! 236. Lowest Common Ancestor of a Binary Tree -> solve it again!
 + 111. Minimum Depth of Binary Tree
 + 1026. Maximum Difference Between Node and Ancestor
+- 543. Diameter of Binary Tree
 
 ```
