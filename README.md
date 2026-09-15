@@ -34,5 +34,6 @@ TRICKS
 + 1448. Count Good Nodes in Binary Tree
 + 100. Same Tree
 ! 236. Lowest Common Ancestor of a Binary Tree -> solve it again!
++ 111. Minimum Depth of Binary Tree
 
 ```
