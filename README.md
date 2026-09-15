@@ -32,5 +32,6 @@ TRICKS
 + 104. Maximum Depth of Binary Tree
 + 112. Path Sum
 + 1448. Count Good Nodes in Binary Tree
++ 100. Same Tree
 
 ```
