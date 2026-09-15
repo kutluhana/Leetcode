@@ -30,5 +30,6 @@ TRICKS
 - 496. Next Greater Element I -> solve it by yourself!
 
 + 104. Maximum Depth of Binary Tree
++ 112. Path Sum
 
 ```
