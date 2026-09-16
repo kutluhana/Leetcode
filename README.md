@@ -44,5 +44,5 @@ TRICKS
 - 103. Binary Tree Zigzag Level Order Traversal (solve it yourself)
 
 + 938. Range Sum of BST
-- 530. Minimum Absolute Difference in BST (solve it yourself, grandpa method doesnt work, use a global list)
+- 530. Minimum Absolute Difference in BST (solve it yourself, grandpa method doesnt work, use a global list, additionally inorder traversal is way better)
 ```
