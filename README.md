@@ -42,4 +42,6 @@ TRICKS
 + 515. Find Largest Value in Each Tree Row
 ! 1302. Deepest Leaves Sum (no need to use streams there is a better way. Keep the sum for each level until the end of the level)
 - 103. Binary Tree Zigzag Level Order Traversal (solve it yourself)
+
++ 938. Range Sum of BST
 ```
