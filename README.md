@@ -46,4 +46,5 @@ TRICKS
 + 938. Range Sum of BST
 - 530. Minimum Absolute Difference in BST (solve it yourself, grandpa method doesnt work, use a global list, additionally inorder traversal is way better)
 ! 98. Validate Binary Search Tree (solve it again)
++ 701. Insert into a Binary Search Tree
 ```
