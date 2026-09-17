@@ -49,5 +49,5 @@ TRICKS
 + 701. Insert into a Binary Search Tree
 - 270. Closest Binary Search Tree Value (solve it yourself, it is a bit different than a classic dfs solution)
 
-! 547. Number of Provinces (solve it yourself)
+- 547. Number of Provinces (solve it yourself)
 ```
