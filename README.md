@@ -48,4 +48,6 @@ TRICKS
 ! 98. Validate Binary Search Tree (solve it again)
 + 701. Insert into a Binary Search Tree
 - 270. Closest Binary Search Tree Value (solve it yourself, it is a bit different than a classic dfs solution)
+
+! 547. Number of Provinces (solve it yourself)
 ```
