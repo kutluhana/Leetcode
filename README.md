@@ -50,4 +50,5 @@ TRICKS
 - 270. Closest Binary Search Tree Value (solve it yourself, it is a bit different than a classic dfs solution)
 
 - 547. Number of Provinces (solve it yourself)
+! 200. Number of Islands (solved after getting the hint of each location in 2d array is a node actually)
 ```
