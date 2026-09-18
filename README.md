@@ -51,4 +51,5 @@ TRICKS
 
 - 547. Number of Provinces (solve it yourself)
 ! 200. Number of Islands (solved after getting the hint of each location in 2d array is a node actually)
+- 1466. Reorder Routes to Make All Paths Lead to the City Zero (solve it yourself)
 ```
