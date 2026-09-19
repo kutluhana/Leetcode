@@ -56,4 +56,5 @@ TRICKS
 + 1557. Minimum Number of Vertices to Reach All Nodes (no need for dfs)
 + 1971. Find if Path Exists in Graph
 + 323. Number of Connected Components in an Undirected Graph
++ 695. Max Area of Island
 ```
