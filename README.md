@@ -53,4 +53,5 @@ TRICKS
 ! 200. Number of Islands (solved after getting the hint of each location in 2d array is a node actually)
 - 1466. Reorder Routes to Make All Paths Lead to the City Zero (solve it yourself)
 + 841. Keys and Rooms
++ 1557. Minimum Number of Vertices to Reach All Nodes (no need for dfs)
 ```
