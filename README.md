@@ -61,4 +61,5 @@ TRICKS
 
 ! 1091. Shortest Path in Binary Matrix (solve it again)
 + 863. All Nodes Distance K in Binary Tree (still may wanna see other solutions)
+- 542. 01 Matrix
 ```
