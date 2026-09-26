@@ -63,4 +63,5 @@ TRICKS
 + 863. All Nodes Distance K in Binary Tree (still may wanna see other solutions)
 - 542. 01 Matrix
 ! 1293. Shortest Path in a Grid with Obstacles Elimination (mostly solved but need to internalize the 3D seen array and Manhattan Distance)
+- 1129. Shortest Path with Alternating Colors (check solution again and solve it yourself)
 ```
