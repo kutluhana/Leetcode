@@ -75,4 +75,5 @@ TRICKS
 + 347. Top K Frequent Elements
 ! 658. Find K Closest Elements (struggled while writing the comparator)
 + 215. Kth Largest Element in an Array
++ 973. K Closest Points to Origin
 ```
