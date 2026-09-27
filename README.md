@@ -67,4 +67,5 @@ TRICKS
 + 1926. Nearest Exit from Entrance in Maze
 
 + 1046. Last Stone Weight
++ 2208. Minimum Operations to Halve Array Sum
 ```
