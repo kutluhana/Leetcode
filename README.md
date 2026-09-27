@@ -68,4 +68,5 @@ TRICKS
 
 + 1046. Last Stone Weight
 + 2208. Minimum Operations to Halve Array Sum
+- 295. Find Median from Data Stream (only two heaps are enough, both holding different sides)
 ```
