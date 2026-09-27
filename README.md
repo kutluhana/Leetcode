@@ -70,4 +70,5 @@ TRICKS
 + 2208. Minimum Operations to Halve Array Sum
 - 295. Find Median from Data Stream (only two heaps are enough, both holding different sides)
 + 1962. Remove Stones to Minimize the Total
++ 1167. Minimum Cost to Connect Sticks
 ```
