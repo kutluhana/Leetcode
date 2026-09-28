@@ -78,5 +78,6 @@ TRICKS
 + 973. K Closest Points to Origin
 + 703. Kth Largest Element in a Stream
 
++ 2126. Destroying Asteroids
 + 2294. Partition Array Such That Maximum Difference Is K
 ```
