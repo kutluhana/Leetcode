@@ -77,4 +77,6 @@ TRICKS
 + 215. Kth Largest Element in an Array
 + 973. K Closest Points to Origin
 + 703. Kth Largest Element in a Stream
+
++ 2294. Partition Array Such That Maximum Difference Is K
 ```
