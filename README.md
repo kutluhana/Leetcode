@@ -80,4 +80,5 @@ TRICKS
 
 + 2126. Destroying Asteroids
 + 2294. Partition Array Such That Maximum Difference Is K
+- 502. IPO (solve it yourself)
 ```
